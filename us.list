@@ -4,3 +4,15 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleapis.com
+
+# cursor
+DOMAIN-SUFFIX,api2.cursor.sh
+DOMAIN-SUFFIX,api3.cursor.sh
+DOMAIN-SUFFIX,api4.cursor.sh
+DOMAIN-SUFFIX,*.api5.cursor.sh
+DOMAIN-SUFFIX,repo42.cursor.sh
+DOMAIN-SUFFIX,*.authentication.cursor.sh
+DOMAIN-SUFFIX,authenticator.cursor.sh
+DOMAIN-SUFFIX,marketplace.cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,downloads.cursor.com
