@@ -7,9 +7,3 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
-
-# cursor
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,cursor-cdn.com
